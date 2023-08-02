@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    margin: 0;
+    overflow: hidden;
+}
+
+.screen{
+    width: 500px;
+
+    border: 1px solid black;
+    aspect-ratio: 10/ 16;
+    border-radius: 1rem;
+}
